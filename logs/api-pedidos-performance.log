@@ -1,0 +1,2 @@
+2025-10-30 23:24:21.214 [http-nio-auto-2-exec-1] INFO  PERFORMANCE - ENDPOINT_PERFORMANCE - Class: PedidoController, Method: listarPedidos, ExecutionTime: 118ms, RequestId: e2ad80bb
+2025-10-30 23:24:22.905 [http-nio-auto-3-exec-1] INFO  PERFORMANCE - ENDPOINT_PERFORMANCE - Class: PedidoController, Method: listarPedidos, ExecutionTime: 39ms, RequestId: 007283ee

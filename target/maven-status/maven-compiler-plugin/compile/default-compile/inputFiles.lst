@@ -1,0 +1,15 @@
+C:\Users\muril\IdeaProjects\Studies\api-pedidos\src\main\java\com\example\apipedidos\ApiPedidosApplication.java
+C:\Users\muril\IdeaProjects\Studies\api-pedidos\src\main\java\com\example\apipedidos\exception\DadosInvalidosException.java
+C:\Users\muril\IdeaProjects\Studies\api-pedidos\src\main\java\com\example\apipedidos\dto\PedidoResponseDTO.java
+C:\Users\muril\IdeaProjects\Studies\api-pedidos\src\main\java\com\example\apipedidos\config\LoggingAspect.java
+C:\Users\muril\IdeaProjects\Studies\api-pedidos\src\main\java\com\example\apipedidos\service\PedidoService.java
+C:\Users\muril\IdeaProjects\Studies\api-pedidos\src\main\java\com\example\apipedidos\repository\PedidoRepository.java
+C:\Users\muril\IdeaProjects\Studies\api-pedidos\src\main\java\com\example\apipedidos\dto\FilaStatusDTO.java
+C:\Users\muril\IdeaProjects\Studies\api-pedidos\src\main\java\com\example\apipedidos\model\Pedido.java
+C:\Users\muril\IdeaProjects\Studies\api-pedidos\src\main\java\com\example\apipedidos\dto\ErrorResponse.java
+C:\Users\muril\IdeaProjects\Studies\api-pedidos\src\main\java\com\example\apipedidos\dto\PedidoRequestDTO.java
+C:\Users\muril\IdeaProjects\Studies\api-pedidos\src\main\java\com\example\apipedidos\exception\GlobalExceptionHandler.java
+C:\Users\muril\IdeaProjects\Studies\api-pedidos\src\main\java\com\example\apipedidos\config\LoggingConfiguration.java
+C:\Users\muril\IdeaProjects\Studies\api-pedidos\src\main\java\com\example\apipedidos\exception\PedidoNotFoundException.java
+C:\Users\muril\IdeaProjects\Studies\api-pedidos\src\main\java\com\example\apipedidos\controller\PedidoController.java
+C:\Users\muril\IdeaProjects\Studies\api-pedidos\src\main\java\com\example\apipedidos\config\LoggingHealthIndicator.java

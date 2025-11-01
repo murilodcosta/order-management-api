@@ -1,0 +1,2 @@
+2025-10-30 23:24:30.733 [main] ERROR AUDIT - INTERNAL_SERVER_ERROR - URI: /api/pedidos/fila/status, RequestId: null, Type: HttpMediaTypeNotAcceptableException, Message: Could not find acceptable representation
+2025-10-30 23:24:30.851 [main] ERROR AUDIT - INTERNAL_SERVER_ERROR - URI: /api/pedidos/fila/status, RequestId: null, Type: HttpMediaTypeNotAcceptableException, Message: Could not find acceptable representation

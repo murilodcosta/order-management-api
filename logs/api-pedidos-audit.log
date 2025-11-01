@@ -1,0 +1,8 @@
+2025-10-30 23:24:21.131 [http-nio-auto-2-exec-1] INFO  AUDIT - CRUD_OPERATION_START - Class: PedidoService, Method: listarTodosPedidos, Args: [], RequestId: e2ad80bb
+2025-10-30 23:24:21.208 [http-nio-auto-2-exec-1] INFO  AUDIT - CRUD_OPERATION_SUCCESS - Class: PedidoService, Method: listarTodosPedidos, RequestId: e2ad80bb
+2025-10-30 23:24:22.872 [http-nio-auto-3-exec-1] INFO  AUDIT - CRUD_OPERATION_START - Class: PedidoService, Method: listarTodosPedidos, Args: [], RequestId: 007283ee
+2025-10-30 23:24:22.903 [http-nio-auto-3-exec-1] INFO  AUDIT - CRUD_OPERATION_SUCCESS - Class: PedidoService, Method: listarTodosPedidos, RequestId: 007283ee
+2025-10-30 23:24:27.136 [main] INFO  AUDIT - CRUD_OPERATION_START - Class: PedidoService, Method: listarTodosPedidos, Args: [], RequestId: null
+2025-10-30 23:24:27.142 [main] INFO  AUDIT - CRUD_OPERATION_SUCCESS - Class: PedidoService, Method: listarTodosPedidos, RequestId: null
+2025-10-30 23:24:27.150 [main] INFO  AUDIT - CRUD_OPERATION_START - Class: PedidoService, Method: criarPedido, Args: [com.example.apipedidos.dto.PedidoRequestDTO@6cbfcf11], RequestId: null
+2025-10-30 23:24:27.194 [main] INFO  AUDIT - CRUD_OPERATION_SUCCESS - Class: PedidoService, Method: criarPedido, RequestId: null
